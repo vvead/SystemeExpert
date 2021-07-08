@@ -6,7 +6,7 @@
 #    Feb 27, 2021 01:13:56 AM CET  platform: Linux
 
 import sys
-from DécouvrirType import *
+from DecouvrirType import *
 import Pmw
 
 try:
