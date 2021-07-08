@@ -5,4 +5,4 @@ This mini project requires us to create an expert system for calculating proposa
 # Usage 
     python3 interface.py 
 # Overview 
-![Interface preview for the expert system](file:///home/vvead/Images/systemEXpert.png)
+![Interface preview for the expert system](/images/systemExpert.png)
