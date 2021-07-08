@@ -4,3 +4,5 @@ This mini project requires us to create an expert system for calculating proposa
     $ sudo pip3 install -r requirements.txt
 # Usage 
     python3 interface.py 
+# Overview 
+![Interface preview for the expert system](file:///home/vvead/Images/systemEXpert.png)
