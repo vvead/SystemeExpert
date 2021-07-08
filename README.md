@@ -6,3 +6,6 @@ This mini project requires us to create an expert system for calculating proposa
     python3 interface.py 
 # Overview 
 ![systemExpert](https://user-images.githubusercontent.com/45710599/124991446-f7cf8300-e041-11eb-9f3e-5e5e78446de5.png)
+# Team
+* Touhami Wided Ahlem
+* Guendouzi Badra Souhila
